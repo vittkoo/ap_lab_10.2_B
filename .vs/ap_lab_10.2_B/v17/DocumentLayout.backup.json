@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS_projects\\ap_lab_10.2_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF9CF17-4CBF-44B6-A239-5AF3F8A9A3F7}|..\\UnitTest_10.2_B\\UnitTest_10.2_B.vcxproj|D:\\VS_projects\\UnitTest_10.2_B\\UnitTest_10.2_B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E65A10-EF1F-4AE6-B7F0-46E1C27AFA8C}|ap_lab_10.2_B.vcxproj|D:\\VS_projects\\ap_lab_10.2_B\\lab_10.2_B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6E65A10-EF1F-4AE6-B7F0-46E1C27AFA8C}|ap_lab_10.2_B.vcxproj|solutionrelative:lab_10.2_B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_10.2_B.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\UnitTest_10.2_B\\UnitTest_10.2_B.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest_10.2_B\\UnitTest_10.2_B.cpp",
+              "ToolTip": "D:\\VS_projects\\UnitTest_10.2_B\\UnitTest_10.2_B.cpp*",
+              "RelativeToolTip": "..\\UnitTest_10.2_B\\UnitTest_10.2_B.cpp*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T00:07:33.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab_10.2_B.cpp",
+              "DocumentMoniker": "D:\\VS_projects\\ap_lab_10.2_B\\lab_10.2_B.cpp",
+              "RelativeDocumentMoniker": "lab_10.2_B.cpp",
+              "ToolTip": "D:\\VS_projects\\ap_lab_10.2_B\\lab_10.2_B.cpp",
+              "RelativeToolTip": "lab_10.2_B.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAB0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T23:52:34.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
